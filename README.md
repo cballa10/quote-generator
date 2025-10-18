@@ -37,5 +37,5 @@ const quotes = [
 ];
 
 📸 Preview
-images/screenshot.png
+![Quote Generator Screenshot](images/screenshot.png)
 
