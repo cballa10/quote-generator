@@ -33,7 +33,7 @@ You can easily add your own quotes:
 ```js
 const quotes = [
   { text: "Your custom quote here.", author: "Your Name" },
-  ...
+  ```
 ];
 
 📸 Preview
