@@ -37,6 +37,5 @@ const quotes = [
 ];
 
 📸 Preview
-<img src= "images/screenshot.png">
-
+images/screenshot.png
 
